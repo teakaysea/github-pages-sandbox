@@ -7,7 +7,9 @@
 * あああ漢字
 
 ### H4
-aaaa `bbbb` `cccc` `quote`
+aaaa `bbbb` `cccc` `quote`  
+`Go` `Gin` `bash`
+
 ```
 $ ls -la
 ```
