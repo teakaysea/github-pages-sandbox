@@ -4,6 +4,16 @@
 @import "jekyll-theme-minimal";
 
 p.view { visibility: hidden; }
+code, tt {
+  margin: 0 2px;
+  padding: 0 5px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px; }
+
+/*
 body { background-color: #a7c6da; }
 section h1 { color: red; }
 small { color: red; }
+*/
