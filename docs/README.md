@@ -1,4 +1,4 @@
-https://teakaysea.github.io/github-pages-sandbox/
+[GitHub Pages](https://teakaysea.github.io/github-pages-sandbox/)
 # H1 日本語あああ
 ## H2 日本語あああ
 ### H3 日本語あああ
@@ -23,6 +23,7 @@ $ ls -la
 ```
 
 quote
+> **タイトル**  
 > quote line  
 > aaaaaa
 > aaaaaa
