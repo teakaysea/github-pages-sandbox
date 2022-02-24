@@ -17,13 +17,20 @@ pre code {
   border: none;
   background: transparent; }
 blockquote {
+  /*
   border-left: 4px solid #dddddd;
-  padding: 0 15px;
+  */
+  padding: 15px 15px;
   color: #777777;
+  background-color: #fafafa;
+  border-radius: 7px;
+  border-left: none;
   font-style: normal; }
+/*
   blockquote > :first-child {
     margin-top: 0; }
-  blockquote > :last-child {
+*/
+blockquote > :last-child {
     margin-bottom: 0; }
 
 /*
