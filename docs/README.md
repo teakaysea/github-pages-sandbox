@@ -1,4 +1,6 @@
-[GitHub Pages](https://teakaysea.github.io/github-pages-sandbox/)
+[GitHub Pages](https://teakaysea.github.io/github-pages-sandbox/)  
+[README.md](https://github.com/teakaysea/github-pages-sandbox/edit/main/docs/README.md)
+
 # H1 日本語あああ
 ## H2 日本語あああ
 ### H3 日本語あああ
