@@ -26,3 +26,8 @@ quote
 > aaaaaa
 > aaaaaa
 > quote line
+
+<dl>
+  <dt>aaa</dt>
+  <dd>bbb</dd>
+</dl>
