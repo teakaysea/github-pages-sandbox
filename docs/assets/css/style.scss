@@ -16,22 +16,24 @@ pre code {
   white-space: pre;
   border: none;
   background: transparent; }
+/*
 blockquote {
-  /*
   border-left: 4px solid #dddddd;
-  */
   padding: 15px 15px;
   color: #777777;
   background-color: #fafafa;
   border-radius: 7px;
   border-left: none;
   font-style: normal; }
-/*
   blockquote > :first-child {
     margin-top: 0; }
-*/
 blockquote > :last-child {
     margin-bottom: 0; }
+*/
+
+blockquote{
+  font-style:normal;
+  border-left:7px solid #eeeeee; }
 
 /*
 p.view { visibility: hidden; }
