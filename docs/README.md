@@ -12,7 +12,7 @@
 
 #### H4 日本語あああ
 aaaa `bbbb` `cccc` `quote`  
-`Go` `Gin` `bash`
+**`Go`** **`Gin`** **`bash`**
 
 ##### H5 日本語あああ
 ここに文章を書く。`lang`など。
